@@ -1,1 +1,1 @@
-Demo quan ly du an
+"Dự án quản lý thư viện của nhóm A".
